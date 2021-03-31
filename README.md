@@ -1,1 +1,1 @@
-# Mochila_DeLaurentiis_Sofia
+# Mochila de cursada Introduccion a la Informatica
